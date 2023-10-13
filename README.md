@@ -11,8 +11,8 @@
   ## Capturas de Pantalla
 <p align="center">
  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA8_200327/blob/main/pantalla1.png" width="200" alt="Captura de Pantalla 1">
-  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA8_200327/blob/main/pantalla2.png" width="200" alt="Captura de Pantalla 2">
-  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA9_200327/blob/main/pantalla3.png" width="200" alt="Captura de Pantalla 3">
+  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA11_200327/blob/main/pantalla4.jpg" width="200" alt="Captura de Pantalla 2">
+  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA11_200327/blob/main/pantalla5.jpg" width="200" alt="Captura de Pantalla 3">
 
 
   </p>
